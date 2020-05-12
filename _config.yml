@@ -1,6 +1,13 @@
+title: Log esparso do Zé
+author:
+  name: José Geraldo de Carvalho Pereira
+description: > # this means to ignore newlines until "show_excerpts:"
+  Depois eu descrevo
+
 theme: minima
 minima:
   skin: solarized
+  
 use_math: true
 plugins:
   - jekyll-feed
