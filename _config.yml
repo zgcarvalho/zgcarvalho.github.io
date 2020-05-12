@@ -1,6 +1,7 @@
 theme: minima
 minima:
-  skin: solarized
+  skin: dark
+  
 use_math: true
 plugins:
   - jekyll-feed
